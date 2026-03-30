@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Jonathan Ribeiro!
-[![Github](https://img.shields.io/github/followers/SEU-USER-PUC?label=Follow&style=social)](https://github.com/SEU-USER-PUC)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=theRoughCode.SEU-USER-PUC)
+[![Github](https://img.shields.io/github/followers/JonathanRbo-puc?label=Follow&style=social)](https://github.com/JonathanRbo-puc)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=theRoughCode.JonathanRbo-puc)
 
 <div align="center">
 
@@ -46,6 +46,14 @@ semestre-disciplina-nome-do-projeto
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 Atividade
+
+| Status | Produtividade |
+|:---:|:---:|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanRbo-puc&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonathanRbo-puc&theme=nord_dark&utcOffset=-3) |
 
 ---
 
