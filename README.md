@@ -10,15 +10,13 @@
 
 ## 🎓 Sobre Mim
 
-Estudante de **Sistemas de Informacao** na **PUC** (1º ano), com background profissional como desenvolvedor **Full Stack** em **JavaScript, PHP e WordPress**. Formado em **Analise e Desenvolvimento de Sistemas** pela ETEC Pedro Ferreira Alves.
+Estudante de **Sistemas de Informacao** na **PUC** (1º ano), com background como desenvolvedor **Full Stack** em JavaScript, PHP e WordPress, alem de **+10 anos de experiencia** em design e edicao de video.
 
-Este repositorio reune exclusivamente os **projetos academicos** desenvolvidos ao longo da graduacao em SI — trabalhos de disciplinas, projetos integradores e estudos dirigidos.
-
-> Para meu portfolio completo e projetos profissionais, acesse minha [conta principal](https://github.com/JonathanRbo).
+Esta conta e dedicada exclusivamente aos **projetos academicos** da graduacao, trabalhos de disciplinas, projetos integradores e estudos dirigidos. A maior parte dos meus projetos profissionais, portfolio completo e contribuicoes open source estao na minha [conta principal](https://github.com/JonathanRbo).
 
 ---
 
-## 💻 Tecnologias
+## 💻 Tecnologias:
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -56,6 +54,7 @@ Este repositorio reune exclusivamente os **projetos academicos** desenvolvidos a
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="30%" />
 
-  ### Sistemas de Informacao — PUC | 1º Ano
-  **Projetos profissionais na [conta principal](https://github.com/JonathanRbo)** ⭐
+  ### Obrigado pela visita! ⭐
+
+  [![Conta principal](https://img.shields.io/badge/Conta_principal-JonathanRbo-181825?style=for-the-badge&logo=github&logoColor=3483fa)](https://github.com/JonathanRbo)
 </div>
