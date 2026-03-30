@@ -18,17 +18,7 @@ Este repositorio reune exclusivamente os **projetos academicos** desenvolvidos a
 
 ---
 
-## 📂 Repositorios
-
-Cada repositorio corresponde a um projeto ou disciplina da graduacao. A organizacao segue o padrao:
-
-```
-semestre-disciplina-nome-do-projeto
-```
-
----
-
-## 💻 Tecnologias Utilizadas nos Projetos
+## 💻 Tecnologias
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
